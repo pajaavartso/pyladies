@@ -1,8 +1,8 @@
 # pyladies
-pyladies stuff
+pyladies úkoly, projekty, beginner course autumn 2022
 
 
 ## Instrukce
-zde jsou instrukce, jak soubor spustit
+Úkoly, co průběžně dělám na Pyladies kurz podzim 2022
 
-## abcd
+
